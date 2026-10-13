@@ -1,0 +1,13 @@
+name: naud-burst
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - brian2>=2.7
+  - numpy
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+  - ipywidgets
+  - pytest

@@ -1,0 +1,18 @@
+# Journal PDFs (copyrighted; link to the paper instead)
+*.pdf
+
+# Python / Jupyter
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Brian2 build cache
+output/
+*.so
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
